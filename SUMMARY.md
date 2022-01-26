@@ -66,7 +66,6 @@
     * [23.6 判断处理器是否支持VMX](di-3-juan/xi-tong-bian-cheng-zhi-nan/di-23-zhang-xu-ni-ji-jie-shao/23.6-pan-duan-chu-li-qi-shi-fou-zhi-chi-vmx.md)
     * [23.7 开启并进入VMX模式](di-3-juan/xi-tong-bian-cheng-zhi-nan/di-23-zhang-xu-ni-ji-jie-shao/23.7-kai-qi-bing-jin-ru-vmx-mo-shi.md)
     * [23.8 VMX操作的限制](di-3-juan/xi-tong-bian-cheng-zhi-nan/di-23-zhang-xu-ni-ji-jie-shao/23.8-vmx-cao-zuo-de-xian-zhi.md)
-    * [Page 58](di-3-juan/xi-tong-bian-cheng-zhi-nan/di-23-zhang-xu-ni-ji-jie-shao/page-58.md)
   * [Page 24](di-3-juan/xi-tong-bian-cheng-zhi-nan/page-24.md)
   * [Page 25](di-3-juan/xi-tong-bian-cheng-zhi-nan/page-25.md)
   * [Page 26](di-3-juan/xi-tong-bian-cheng-zhi-nan/page-26.md)
